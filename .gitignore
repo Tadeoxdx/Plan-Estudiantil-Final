@@ -1,0 +1,13 @@
+# Android Studio / IntelliJ
+.idea/
+.gradle/
+build/
+*.iml
+local.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación de la app
+/app/build/
